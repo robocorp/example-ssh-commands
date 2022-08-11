@@ -1,0 +1,16 @@
+tasks:
+  Execute And Wait For Output:
+    robotTaskName: Execute And Wait For Output
+  Execute And Read Async:
+    robotTaskName: Execute And Read Async
+  Write And Read From Terminal:
+    robotTaskName: Write And Read From Terminal
+
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - .
+ignoreFiles:
+  - .gitignore
