@@ -1,4 +1,4 @@
-# example-ssh-commands
+# SSH command examples
 
 Various ways of running SSH commands with/out waiting for output.
 
